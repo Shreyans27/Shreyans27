@@ -7,16 +7,37 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const Shreyans27 = {
-  Pronouns: "he" | "him",
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-  Code: [Python, MATLAB, SQL],
-  Tools: [MySQL, Power BI, Microsoft SQL Server, Arduino],
 
-  Challenge: "I am doing the #100DaysOfCode challenge on LeetCode"
-}
+class Engineer:
+
+    def __init__(self):
+        self.name = "Shreyans"
+        self.Pronouns = "He | Him"
+        self.language_spoken = ["en_GB", "hi_IN"]
+
+    def skills(self):
+        self.code = [Python, MATLAB, SQL]
+        self.tools: [MySQL, Power BI, Microsoft SQL Server, Arduino]
+
+    def challenge(self):
+        print("I am doing the #100DaysOfCode challenge on LeetCode")
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = Engineer()
+me.challenge()
+me.say_hi()
 ```
+
+## Contact
+- [@2003Shreyans](https://twitter.com/2003Shreyans) on Twitter
+- [@demi_lorde](./) on Discord
 
 <!--
 **Shreyans27/Shreyans27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
