@@ -1,11 +1,11 @@
-<h1> Hi, I'm Shreyans! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1> Hi, I'm Shreyans! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRkczY0MjF5bDY0a2VpbHRoaTR5MGVnYjBmdDdrZnY3dGt0cGFzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v0dGnTDFgEr68myH0C/giphy.gif" width="50"></h1>
 
 ### <p style="font-size:60px"><p style="font-size:60px">Engineering Student at Vellore Institute of Technology, Vellore<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 [![Linkedin: 2003-shreyans-shah](https://img.shields.io/badge/-Shreyans-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/2003-shreyans-shah/)](https://www.linkedin.com/in/2003-shreyans-shah/)
 [![GitHub Shreyans27](https://img.shields.io/github/followers/Shreyans27?label=follow&style=social)](https://github.com/Shreyans27)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmR4cGZzN2ptMGZ6dXVrN2ZsbmFzd3VzbXhkM3IxM25leTZpYzY1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="50"> A little more about me...  
 
 ```python
 #!/usr/bin/python
