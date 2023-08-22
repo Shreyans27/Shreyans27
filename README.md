@@ -16,7 +16,7 @@ class Engineer:
 
     def __init__(self):
         self.name = "Shreyans"
-        self.Pronouns = "He | Him"
+        self.pronouns = "He | Him"
         self.language_spoken = ["en_GB", "hi_IN"]
 
     def skills(self):
