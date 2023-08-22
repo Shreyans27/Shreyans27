@@ -52,4 +52,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## :trophy: My Github Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Devansh-ops&show_icons=true&theme=tokyonight&count_private=true&hide=issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-ops&theme=tokyonight)
+
+
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=Devansh-ops&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Devansh-ops&count_private=true&show_icons=true&theme=tokyonight&hide=issues" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-ops&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devansh-ops&theme=tokyonight" />
+</a>
+</div>
+
 -->
