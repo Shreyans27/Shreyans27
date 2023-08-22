@@ -36,19 +36,25 @@ me.challenge()
 me.say_hi()
 ```
 
+
+## GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyans27&theme=onedark&hide_border=false)<br/>
+
+
 ## Contact
 - [@2003Shreyans](https://twitter.com/2003Shreyans) on Twitter
 - [@demi_lorde](./) on Discord
 - <a href="mailto:shah.shreyans.2003@@gmail.com">@Shreyans</a> on Gmail
 
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shreyans27&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyans27&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyans27&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!--
+
+![](https://github-readme-stats.vercel.app/api?username=Shreyans27&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyans27&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 **Shreyans27/Shreyans27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
