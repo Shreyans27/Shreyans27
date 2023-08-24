@@ -6,7 +6,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Shreyans27.Shreyans27)
 [![GitHub Shreyans27](https://img.shields.io/github/followers/Shreyans27?label=followers&logo=Github)](https://github.com/Shreyans27)
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmR4cGZzN2ptMGZ6dXVrN2ZsbmFzd3VzbXhkM3IxM25leTZpYzY1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmR4cGZzN2ptMGZ6dXVrN2ZsbmFzd3VzbXhkM3IxM25leTZpYzY1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="50"> A little more about me... 
 
 ```python
 #!/usr/bin/python
